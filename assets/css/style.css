@@ -26,15 +26,15 @@ input [type="text"] {
     width: 100%;
 }
 
-#socialmedia {
+.socialmedia {
     text-align: center;
 }
 
-#connect {
+.connect {
     text-align: center;
 }
 
-#logo {
+.logo {
     background-color: #4aaaa5;
     text-align: center;
     color: #ffffff;
