@@ -22,12 +22,9 @@ input[type="submit"] {
     padding: 5px 10px 5px 10px;
 }
 
-
-
 input [type="text"] {
     width: 100%;
 }
-
 
 #socialmedia {
     text-align: center;
@@ -43,4 +40,3 @@ input [type="text"] {
     color: #ffffff;
     padding: 20px;
 }
-
