@@ -1,2 +1,10 @@
 # Bootstrap-Portfolio
-Portfolio with bootstrap
+### Portfolio with Bootstrap
+
+## Technologies:
+* HTML
+* CSS
+* Bootstrap Library
+
+## Contributor:
+* Addis Stephanie Casco
