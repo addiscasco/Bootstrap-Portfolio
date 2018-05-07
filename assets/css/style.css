@@ -46,3 +46,8 @@ input [type="text"] {
     height: 50%;
     border-radius: 50%;
 }
+
+#msg{
+    height: 105%;
+    width: 175%;
+}
